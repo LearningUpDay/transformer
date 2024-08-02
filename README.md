@@ -8,3 +8,4 @@
 4. https://zh.d2l.ai/chapter_attention-mechanisms/transformer.html#
 5. https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Transformers
 6. https://zhuanlan.zhihu.com/p/703032315
+7. https://nlp.seas.harvard.edu/2018/04/03/attention.html
